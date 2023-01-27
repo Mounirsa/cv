@@ -1,0 +1,12 @@
+h1{
+    color: aqua;
+    text-align: inherit;
+
+}
+p{
+    color: darkred;
+}
+body{
+    background-color: orange;
+    background-image: url(ouu.jpg);
+}
